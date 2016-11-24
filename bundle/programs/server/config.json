@@ -1,0 +1,7 @@
+{
+  "meteorRelease": "METEOR@1.4.1.1",
+  "appId": "146buggczysf63b5n0t",
+  "clientPaths": {
+    "web.browser": "../web.browser/program.json"
+  }
+}

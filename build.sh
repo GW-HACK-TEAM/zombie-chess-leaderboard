@@ -87,7 +87,7 @@ function aws_deploy() {
       git push origin master
 
       AWS_STACK_ID="4b9fc002-f3e2-4e2d-8ca5-b5f70ca9b63b"
-      AWS_APP_ID="66c857fe-4b18-478f-a69b-0cd886a9c373"
+      AWS_APP_ID="05627a0d-1eba-40e9-b0ad-e04a7bcaaae2"
     fi
 
 
